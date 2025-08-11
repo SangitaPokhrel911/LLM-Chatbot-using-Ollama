@@ -15,10 +15,10 @@ Open your terminal inside the project folder and run:
 
 2. Activate the Virtual Environment
 
-# For Windows
+**For Windows**
 venv\Scripts\activate
 
-# For macOS / Linux
+**For macOS / Linux**
 source venv/bin/activate
 You should see (venv) at the start of your terminal prompt after activation.
 
