@@ -1,0 +1,1 @@
+This is a project about building a RAG based LLM chatbot application using Ollama Streamlit Chromadb. The user can directly ask the questions and get the answers offline from the added documents (can add multiple documents). 
